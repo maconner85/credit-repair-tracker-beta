@@ -8,6 +8,18 @@ It isn't legal advice. It's a tool I made for myself and decided to share. You d
 
 **[Get the latest version](https://github.com/maconner85/credit-repair-tracker-beta/releases/latest)**: download the `.zip` under Assets, unzip it, and open **Read me first.txt**. It runs on Windows 11 or later.
 
+## If Windows says "Windows protected your PC"
+
+That's expected the first time you open it. Windows shows this warning for any program that isn't signed with a paid code-signing certificate, which tells Windows who made it. I haven't bought one: this is a free tool I'm sharing with a small group of testers, and a certificate costs money every year. The warning doesn't mean Windows found anything wrong with the program. It means Windows doesn't know who made it.
+
+To open it:
+
+1. Before you unzip, right-click the zip, choose **Properties**, check **Unblock** at the bottom if it's there, and choose **OK**.
+2. Unzip it to Documents or your Desktop, open the **Credit Repair Tracker** folder, and double-click **Credit Repair Tracker**.
+3. If you see **Windows protected your PC**, choose **More info**. It should show the app as **Credit Repair Tracker.exe** and the publisher as **Unknown publisher**. Then choose **Run anyway**.
+
+You only need to do this once for each version. The very first start can take several seconds while Microsoft Defender checks the new program; later starts are quicker. Only download the tracker from this page.
+
 ## Tell me what you think
 
 Use **[Issues → New issue](https://github.com/maconner85/credit-repair-tracker-beta/issues/new/choose)** and pick one:
