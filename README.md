@@ -16,7 +16,7 @@ Use **[Issues → New issue](https://github.com/maconner85/credit-repair-tracker
 - **Something is confusing**
 - **An idea**
 
-You need a free GitHub account to post. If you'd rather not make one, use **Settings → Send feedback** in the app, which sends me an email.
+You need a free GitHub account to post. If you don't have one, [sign up here](https://github.com/signup), then come back to this page.
 
 > **Everything posted here is public.** Never post real names, account numbers, Social Security numbers, addresses, or screenshots of your own records. For screenshots, use **Try it with sample data.html**, which comes with made-up people. If you post something personal by mistake, say so and I'll delete it.
 
