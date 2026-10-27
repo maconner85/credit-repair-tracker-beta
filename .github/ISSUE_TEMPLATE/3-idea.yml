@@ -1,0 +1,26 @@
+name: An idea
+description: Something that would make the tracker more useful.
+title: "Idea: "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: "**This page is public.** Describe it without your real records."
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would it help you do?
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before you post
+      description: Everything here is public.
+      options:
+        - label: I didn't include real names, account numbers, Social Security numbers, addresses, or screenshots of my own records. Any screenshots use the sample data.
+          required: true
